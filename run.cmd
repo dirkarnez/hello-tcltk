@@ -1,0 +1,1 @@
+start D:\Softwares\Git\mingw64\bin\wish.exe main.tcl
